@@ -16,7 +16,7 @@ export const PROJECTS: Project[] = [
     problem: "Lallin Lammas Oy (a local Finnish agricultural business) required a streamlined, labor-efficient packaging and conveyor workflow to handle heavy box routing and product sorting safely in their facility.",
     solution: "Integrated a conveyor system with optical sensors, safety actuators, and a PLC control logic framework. Developed custom box routing and packaging triggers to sort wool and meat products dynamically based on size and weight parameters, gaining hands-on experience in industrial automation workflows.",
     technologies: ["PLC Programming", "Industrial Automation", "Sensor Integration", "Siemens TIA Portal", "Conveyor Control", "Safety Logic"],
-    imageUrl: "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=800",
+   imageUrl: "/assets/packing-system.jpg",
     specifications: [
       { label: "Laboratory", value: "SAMK Mechatronics Lab" },
       { label: "Client Partner", value: "Lallin Lammas Oy" },
